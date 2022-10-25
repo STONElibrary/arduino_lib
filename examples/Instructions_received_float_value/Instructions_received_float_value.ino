@@ -1,8 +1,8 @@
-/*
+</*
  *  This example shows how to save the values received from the Label and the values from the slider into a custom variable
  */
 
-#include "stone.h"
+#include <stone.h>
 
 extern unsigned char receive_over_flage;
 extern recive_group STONER;
