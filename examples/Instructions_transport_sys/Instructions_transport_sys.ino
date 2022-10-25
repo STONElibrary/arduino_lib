@@ -4,7 +4,7 @@
  */
 
 
-#include "stone.h"
+#include <stone.h>
 
 extern unsigned char receive_over_flage;
 extern recive_group STONER;
