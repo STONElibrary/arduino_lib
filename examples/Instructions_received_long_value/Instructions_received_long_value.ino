@@ -2,7 +2,7 @@
  *  This example shows how to receive a user-defined button value and save the received value into a custom variable
  */
 
-#include "stone.h"
+#include <stone.h>
 
 extern unsigned char receive_over_flage;
 extern recive_group STONER;
