@@ -1,5 +1,8 @@
 # arduino_lib
 ![Image text](extras/step1.png)
+
+![Image text](extras/step2.png)
+
 This library is specially used for STONE serial screen communication with arduino
 
 Below is an API and example for instruction sending in the header file stone.h
